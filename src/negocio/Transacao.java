@@ -1,3 +1,4 @@
+package negocio;
 
 public class Transacao {
 	public String operacao;

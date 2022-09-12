@@ -1,3 +1,4 @@
+package negocio;
 
 public class Cliente {
 	private String nome;
